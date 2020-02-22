@@ -1,4 +1,5 @@
 /*IS THIS WORKING*/
+/*WOW THIS IS WORKING!!!!*/
 
  #pagetitle {
  	font-size: 40px;
@@ -7,7 +8,7 @@
 
  .blogpost {
  	padding: 20px;
- 	border: 1px solid;
+ 	border: 1px solid #b5b5b5;
  	border-radius: 10px;
  	width: 520px;
  	margin: 20px;
