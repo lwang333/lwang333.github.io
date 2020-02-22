@@ -1,0 +1,18 @@
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display|Work+Sans&display=swap" rel="stylesheet">
+<style>
+ #pagetitle {
+ 	font-size: 40px;
+ 	font-family: "Work Sans";
+ }
+
+ .blogpost h2 {
+ 	font-size: 20px;
+ 	font-family: "Work Sans";
+ }
+
+ .blogpost p {
+ 	font-size: 12px;
+ 	font-family: "Playfair Display";
+ }
+
+</style>
