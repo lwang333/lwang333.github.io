@@ -2,11 +2,6 @@
 
 <link href="https://fonts.googleapis.com/css?family=Playfair+Display|Work+Sans&display=swap" rel="stylesheet">
 
- #pagetitle {
- 	font-size: 40px;
- 	font-family: 'Work Sans';
- 	position: center;
- }
 
  .blogpost {
  	position: center;
@@ -14,6 +9,17 @@
  	margin-right: 700px;
  }
 
+ .link {
+ 	font-size: 20px;
+ 	font-family:'Work Sans';
+ }
+
+ h1 {
+ 	position: center
+ 	font-size: 60px;
+ 	font-family: 'Work Sans';
+ }
+ 
  h2 {
  	font-size: 20px;
  	font-family: 'Work Sans';
@@ -24,7 +30,4 @@
  	font-family: 'Playfair Display';
  }
 
- .link {
- 	font-size: 20px;
- 	font-family:'Work Sans';
- }
+
