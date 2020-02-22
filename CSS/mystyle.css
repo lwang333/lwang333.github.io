@@ -4,15 +4,20 @@
 
  #pagetitle {
  	font-size: 40px;
- 	font-family: "Work Sans";
+ 	font-family: 'Work Sans';
  }
 
  h2 {
  	font-size: 20px;
- 	font-family: "Work Sans";
+ 	font-family: 'Work Sans';
  }
 
  p {
  	font-size: 12px;
- 	font-family: "Playfair Display";
+ 	font-family: 'Playfair Display';
+ }
+
+ .link {
+ 	font-size: 20px;
+ 	font-family:'Work Sans';
  }
