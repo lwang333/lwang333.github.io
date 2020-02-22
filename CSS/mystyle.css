@@ -5,12 +5,13 @@
  #pagetitle {
  	font-size: 40px;
  	font-family: 'Work Sans';
+ 	position: center;
  }
 
  .blogpost {
  	position: center;
- 	margin-left: 200px;
- 	margin-right: 200px;
+ 	margin-left: 350px;
+ 	margin-right: 350px;
  }
 
  h2 {
