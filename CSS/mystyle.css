@@ -6,7 +6,7 @@
  	font-family: 'Work Sans';
  }
 
- .blogpost {
+ #blogpost {
  	padding: 20px;
  	border: 1px solid #b5b5b5;
  	border-radius: 10px;
@@ -15,14 +15,14 @@
 
  }
 
- .blogpost h2 {
+ #blogpost h2 {
  	font-size: 30px;
  	font-family: 'Work Sans';
  	text-align: left;
  	margin: auto;
  }
 
- .blogpost p {
+ #blogpost p {
  	font-size: 16px;
  	font-family: 'Lora';
  	margin-left: auto;
