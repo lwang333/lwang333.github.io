@@ -85,8 +85,10 @@
  #blogpost h2 {
  	font-size: 30px;
  	font-family: 'Work Sans';
+ 	font-weight: 400;
  	text-align: left;
  	margin: auto;
+ 	padding-left: 8px;
  }
 
  #blogpost p {
