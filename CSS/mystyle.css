@@ -7,9 +7,49 @@
  }
 
  .pagetitle {
+ 	display: float;
  	text-decoration: none;
  	color: black;
+ 	font-weight: 400;
  }
+
+ h1 {
+ 	margin-top: 50px;
+ 	margin-bottom: 20px;
+ 	font-weight: 400;
+ }
+
+ #descriptor {
+ 	margin-left: 50px;
+ 	margin-top: -40px;
+ 	margin-right: 620px;
+ 	font-family: 'Work Sans';
+ 	font-size: 30px;
+ 	font-weight: 300;
+ }
+
+ #more-button {
+ 	font-size: 16px;
+ 	font-family: 'Work Sans';
+ }
+
+ #more-button a:hover {
+ 	background-color: black;
+ }
+
+ .more {
+ 	font-size: 16px;
+ 	text-decoration: none;
+ 	color: white;
+ 	background-color: #b5b5b5;
+ 	padding: 0px 6px 2px 6px;
+ 	border-radius: 50px;
+ 	transition: 0.5s;
+ }
+
+/* my name in color */
+
+ /* blog posts */
 
  #blogpost {
  	padding: 20px;
