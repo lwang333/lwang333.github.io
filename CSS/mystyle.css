@@ -26,6 +26,14 @@
  	font-family: 'Work Sans';
  	font-size: 30px;
  	font-weight: 300;
+ 	width: 600px;
+ }
+
+ #descriptor p {
+ 	margin-bottom: 0px;
+ 	font-family: 'Work Sans';
+ 	font-size: 30px;
+ 	font-weight: 300;
  }
 
  #more-button {
