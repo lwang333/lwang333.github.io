@@ -91,7 +91,8 @@
 
  #blogpost p {
  	font-size: 16px;
- 	font-family: 'Lora';
+ 	font-family: 'Work Sans';
+ 	font-weight: 300;
  	margin-left: auto;
  	margin-right: auto;
  	width: 500px;
@@ -100,7 +101,8 @@
 
  #blogpost ul {
 	font-size: 16px;
- 	font-family: 'Lora';
+ 	font-family: 'Work Sans';
+ 	font-weight: 300;
  	margin: auto;
  	text-align: left;
  }
