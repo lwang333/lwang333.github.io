@@ -4,6 +4,7 @@
 body {
 	margin: 100px 300px 20px 300px;
 	width: 1000px;
+	color: black;
 }
 
  #pagetitle {
@@ -18,10 +19,16 @@ body {
  	font-weight: 400;
  }
 
+ header {
+ 	width: 1000px;
+ 	margin: auto;
+ 	font-family: 'Work Sans';
+ }
 
  article {
   	font-size: 40px;
- 	font-family: 'Work Sans';	
+ 	font-family: 'Work Sans';
+ 	line-height: 20%;;
  }
 
  h1 {
@@ -31,13 +38,12 @@ body {
  }
 
  #descriptor {
- 	margin-left: 50px;
- 	margin-top: -40px;
- 	margin-right: 1250px;
  	font-family: 'Work Sans';
  	font-size: 30px;
  	font-weight: 300;
- 	width: 600px;
+ 	width: 420px;
+ 	margin-top: -60px;
+ 	margin-left: 4px;
  }
 
  #descriptor p {
@@ -45,6 +51,7 @@ body {
  	font-family: 'Work Sans';
  	font-size: 30px;
  	font-weight: 300;
+ 	color: black;
  }
 
  #more-button {
@@ -126,6 +133,11 @@ body {
 
  /* nav */
 
+ .navLinks {
+ 	list-style-type: none;
+ 	text-align: right;
+ }
+
  #nav {
  	font-size: 50px;
  	font-family: 'Work Sans';
@@ -153,4 +165,5 @@ body {
  #footer {
  	font-size: 10px;
  	font-family: 'Work Sans';
+ 	color: black;
  }
