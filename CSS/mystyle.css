@@ -1,7 +1,7 @@
 /*IS THIS WORKING*/
 /*WOW THIS IS WORKING!!!!*/
 
-body {
+#body-container {
 	margin: auto;
 	width: 50%;
 	color: black;
@@ -29,6 +29,15 @@ body {
   	font-size: 40px;
  	font-family: 'Work Sans';
  	line-height: 20%;
+ 	margin: auto;
+ }
+
+ .descriptorbg {
+ 	float: left; 
+ 	z-index: -1;
+ 	position: absolute;
+ 	top: 172px;
+ 	left: -380px;
  }
 
  h1 {
