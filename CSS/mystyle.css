@@ -96,10 +96,12 @@
 
  .mirror-case-study {
  	margin-top: 100px;
+ 	opacity: 70%;
  	transition: all .4s ease-in-out;
  }
 
 .mirror-case-study:hover {
+	opacity: 1;
 	transform: scale(1.05);
 }
 
