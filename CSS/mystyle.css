@@ -45,6 +45,17 @@
  	margin-top: 50px;
  	margin-bottom: 20px;
  	font-weight: 400;
+ 	font-family: 'Work Sans';
+ 	color: black;
+ }
+
+ h2 {
+ 	font-size: 30px;
+ 	margin-top: 50px;
+ 	margin-bottom: 20px;
+ 	font-weight: 400;
+ 	font-family: 'Work Sans';
+ 	color: black;
  }
 
  #descriptor {
@@ -172,3 +183,41 @@
  	margin: auto;
  	width: 100%;
  }
+
+ /* portfolio */
+
+#portfolio-nav-container {
+	width: 800px;
+	margin: auto;
+	font-family: 'Work Sans';
+	text-align: center;
+}
+
+.bigLink {
+	text-decoration: none;
+	font-size: 40px;
+	color: black;
+	padding: 80px;
+}
+
+.portfolioLinks a:hover {
+	color: #FF0064;
+}
+
+ /* portfolio-MISC */
+
+
+#misc-container {
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	padding: 50px;
+	position: relative;
+	width: 94.7%;
+	height: 100%;
+	background-color: black;
+	float: left;
+}
+
+
+
