@@ -230,5 +230,196 @@
 	float: left;
 }
 
+/*case study nav*/
+
+.research-nav {
+	margin-left: 5%;
+	padding: 0px;
+	width: 200px;
+	position: fixed;
+	height: 100%;
+	overflow: auto;
+	font-family: 'Work Sans';
+	font-size: 40px;
+}
+
+.research-nav a {
+	display: block;
+	color: black;
+	padding: 20px;
+	text-decoration: none;
+}
+
+/*mirror case study page*/
+
+#research {
+	margin: auto;
+	margin-top: -35px;
+	margin-bottom: 50px;
+	padding: 50px;
+	position: relative;
+	width: 94.7%;
+	height: 100%;
+	background-color: #DEE3FF;
+	float: left;
+	z-index: -1;
+}
+
+#case-study-desc {
+	margin: -20px 900px auto auto;
+	width: 475px;
+	font-family: 'Work Sans';
+	font-size: 25px;
+	font-weight: 300;
+}
+
+#case-study-desc p {
+	font-size: 14px;
+	font-weight: 200;
+	margin-bottom: -30px;
+}
+
+#case-study-desc h2 {
+	margin-bottom: -10px;
+	margin-left: -5px
+}
+
+#case-study-desc li {
+	font-size: 17px;
+	font-weight: 300;
+	margin-top: 10px;
+}
+
+#extra-desc {
+	margin-right: 100px;
+	margin-bottom: 50px;
+	font-size: 17px;
+}
+
+#extra-desc h2 {
+	margin-top: -5px;
+	margin-left: -5px;
+}
+
+#extra-desc p {
+	margin: 20px -500px 20px -3px;
+	font-size: 17px;
+	font-weight: 300;
+}
+
+.mirror-macbook {
+	position: absolute;
+	right: 0px;
+	top: -100px;
+	width: 800px;
+	height: auto;
+}
+
+.mirror-phone {
+	position: absolute;
+	right: 700px;
+	top: 0px;
+	width: 200px;
+	height: auto;
+}
+
+.mirror-tablet {
+	position: absolute;
+	right: -50px;
+	top: 380px;
+	width: 480px;
+	height: auto;
+}
+
+#case-study-p {
+	margin-left: 420px; 
+	margin-right: 420px;
+	font-family: 'Work Sans';
+	font-size: 17px;
+	font-weight: 300;
+}
+
+#case-study-p h2 {
+	font-size: 40px;
+	font-weight: 600;
+	margin-top: 0px;
+}
+
+.research-img {
+	margin-top: 30px;
+}
+
+.int-debrief {
+	margin-top: 10px;
+}
+
+.persona {
+	position: absolute;
+	top: 1710px;
+	left: 970px;
+}
+
+.storyboard {
+	position: absolute;
+	top: 2216px;
+	left: 970px;
+}
+
+#define {
+	margin: auto;
+	margin-bottom: 50px;
+	padding: 50px;
+	position: relative;
+	width: 94.7%;
+	height: 100%;
+	background-color: #FFF4CC;
+	float: left;
+	z-index: -1;
+}
+
+.sitemap {
+	position: absolute;
+	top: 1183px;
+	left: 1065px;
+	width: 36.2%;
+}
+
+.user-flow {
+	position: absolute;
+	width: 19.78%;
+	left: 1160px;
+}
+
+#ideate {
+	margin: auto;
+	margin-bottom: 50px;
+	padding: 50px;
+	position: relative;
+	width: 94.7%;
+	height: 100%;
+	background-color: #EDDBFF;
+	float: left;
+	z-index: -1;
+}
+
+.wireframe {
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+#testing {
+	margin: auto;
+	margin-bottom: 50px;
+	padding: 50px;
+	position: relative;
+	width: 94.7%;
+	height: 100%;
+	background-color: #FFE1ED;
+	float: left;
+	z-index: -1;
+}
+
+
+
 
 
